@@ -153,12 +153,13 @@ li {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-
+    margin: 15px 0;
 }
 
 .img-one{
  width: 25%;
 padding: 40px 0;
+text-align: center;
 }
 
 .img-one img{
